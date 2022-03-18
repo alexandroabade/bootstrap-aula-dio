@@ -1,22 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar-nav {
+    margin: 0 auto;
+    font-size: x-large;
+}
+
+.navbar-brand {
+    margin-left: 20px;
+}
+
 .quem-somos {
-    background-color: #8181F7;
+    background-color: #FFF;
 }
 
 .margin {
-    padding-top: 50px;
+    padding-top: 20px;
 }
 
 .parceiros {
     background-color: #EEE;
 }
 
+.parceiros img {
+    margin-bottom: 30px;
+} 
+
 .bg-footer {
     background-color: #EEE;
 }
 
-
-
-
+.quadbox {
+    margin: 20px auto;
+}
 
 ::selection {
     color: #0E0E0E;
