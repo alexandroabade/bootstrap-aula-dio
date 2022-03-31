@@ -1,5 +1,4 @@
 # Aula de Bootstrap - Digital Innovation One
 Utilizando o Bootstrap 
-<img src="https://drive.google.com/file/d/1Js8ExFozk8MdhE3Tv2p0tJDOqWmGHszj/view"  width="100" height="100" />
 
-![Global Labs](https://drive.google.com/file/d/1Js8ExFozk8MdhE3Tv2p0tJDOqWmGHszj/view)
+![Global Labs - Optimizer](https://user-images.githubusercontent.com/5865711/161141191-66fcb292-59a1-486f-b047-2a398b7ca460.gif)
